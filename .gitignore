@@ -130,3 +130,6 @@ dmypy.json
 
 # Pycharm Build Stuff
 .idea
+
+# Selenium Junk
+geckodriver.log

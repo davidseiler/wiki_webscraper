@@ -1,3 +1,4 @@
 selenium
 python39
 xlsxwriter
+geckodriver(0.28.0)
