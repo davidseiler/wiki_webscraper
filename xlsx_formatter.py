@@ -3,5 +3,6 @@ import xlsxwriter
 import os
 
 
-#### Constants ####
-dirName = os.getcwd()
+
+####### GLOBALS #######
+DIR_NAME = os.getcwd()
